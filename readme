@@ -1,0 +1,9 @@
+1. Backend contains source files of Node.
+how to install.
+1- Initalize the project with npm init -y
+2. Install other dependancy like oneai body-parser cors express
+
+2. Bits-openai-project contains front end files.
+how to install.
+1. install React using vite and name the folder as Bits-openai-rpoject and select javascript 
+2. after that navigate to created and file and install npm and run dev
